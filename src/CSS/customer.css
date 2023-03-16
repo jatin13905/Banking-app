@@ -1,0 +1,36 @@
+.c-main{
+    width: 70%;
+    margin:7% auto 7% auto;
+    background-color: grey;
+    padding :5%;
+    border-radius: 10px;
+}
+.c-signup{
+width: 40%;
+display: inline-block;
+background-color: palevioletred;
+padding: 1%;
+text-align: center;
+border-radius: 10px;
+margin: 4%;
+margin-left: -2%;
+}
+
+.c-login{
+    width: 50%;
+    display: inline-block;
+    text-align: center;
+
+}
+.login-heading{
+    display: inline;
+    text-align: center;
+}
+.login-box{
+    text-align: start;
+    font-weight: bolder;
+    margin:3%;
+}
+.input-cid{
+    width: 50%;
+}

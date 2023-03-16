@@ -1,0 +1,23 @@
+.loan-main{
+    width: 80%;
+    padding: 2%;
+    margin: 2% auto 5% auto;
+}
+
+.loan-head{
+text-transform: uppercase;
+text-align: center;
+background-color: aquamarine;
+width: 40%;
+margin:2% auto;
+border-radius: 10px;
+}
+.sub-head{
+    /* text-align: center; */
+    font-weight: bold;
+    margin: 1% 0% 1% 0%;
+    
+}
+.sub-head >legend{
+    background-color: rgb(237, 193, 136);
+}

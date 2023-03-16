@@ -1,0 +1,34 @@
+.calc-main{
+    margin:5% 2% 2% 2%;
+}
+
+.calc-heading{
+    text-align: center;
+}
+.calc-heading > h1{
+    padding: 1%;
+    background-color: rgb(144, 199, 219);
+    width: 50%;
+    margin: 2% auto;
+    border-radius: 10px;
+}
+.calc-cards{
+    display: inline-block;
+    margin: auto;
+    margin-left: 5%;
+    background-color: beige;
+    width: 40%;
+    padding: 2%;
+    text-align: center;
+    margin: 1%;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+
+.calc-cards:hover{
+    box-shadow: 10px 10px 20px rgb(136, 128, 128);
+}
+.calc-card-div{
+    margin: 2% 0% 2% 12%; 
+}

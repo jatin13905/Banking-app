@@ -1,0 +1,61 @@
+.customer{
+width: 49%;
+display: inline-block;
+background-color: rgb(204, 199, 146);
+text-align: center;
+border-radius: 10px;
+padding: 4%;
+}
+.emp{
+width: 49%;
+display: inline-block;
+background-color:rgb(164, 161, 161);
+text-align: center;
+border-radius: 10px;
+margin-left:1%;
+padding: 4%;
+}
+.offer-zone{
+    background-color: rgb(179, 86, 189);
+    border-radius: 10px;;
+    margin: 2% auto;
+    text-align: center;
+    width: 50%;
+    padding: 1%;
+}
+.home-link{
+    font-size: 1.5em; 
+    text-decoration: none;    
+    color: black;
+}
+.home-link > h1{
+    text-align: center;
+}
+.home-link > h4{
+    width: 40%;
+    margin: 2% auto;
+}
+.customer-emp-div{
+    margin: 1%;
+
+}
+.content-under-1{
+    background-color: rgb(218, 225, 189);
+    padding: 2%;
+    margin: 1%;
+    border-radius: 5px;
+    text-align: center;
+}
+.home-main-div{
+    
+}
+.loan-center{
+    font-size: 2.2em;
+    text-decoration: underline 4px solid black;
+}
+
+.home-link > h4{
+    border: 1px black dashed;
+    padding: 1%;
+    background-color:rgb(225, 113, 113);
+}

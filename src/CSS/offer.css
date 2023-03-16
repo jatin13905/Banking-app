@@ -1,0 +1,46 @@
+.demo1{
+
+    width: 100%;
+    overflow-y: scroll;
+    height: 40vh;
+    cursor: pointer;
+
+}
+
+.demo1 > img{
+    margin: 1% 0%;
+}
+
+
+
+
+.offer-main-div{
+    margin: 2%;
+}
+.offer-head{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(179, 120, 235);
+    width: 50%;
+    margin: 2% auto;
+    border-radius: 10px;
+}
+
+.main-content{
+    width: 80%;
+    margin: 2% auto;
+}
+.div-1{
+    text-align: center;
+    background-color: aliceblue;
+    margin: 2% 4%;
+}
+
+.div-1 > h3{
+    padding: 1%;
+    background-color: pink;
+}
+
+
+
+

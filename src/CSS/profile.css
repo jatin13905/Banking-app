@@ -1,0 +1,21 @@
+.profile-main{
+    margin: 1%;
+    /* background-color: palegoldenrod; */
+}
+.profile-info-main{
+    background-color: wheat;
+    margin-left: 2%;
+    padding: 2%;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px rgb(200, 178, 136);
+}
+
+.money-trans-div{
+    margin: 4%;
+    text-align: center;
+}
+
+.money-trans{
+    font-size: 1.2em;
+    text-align: start;
+}
